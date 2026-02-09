@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart E-Waste Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Smart E-Waste Guide</h1>
+  <button onclick="goScan()">Scan Item</button>
+
+<script src="script.js"></script>
+</body>
+</html>

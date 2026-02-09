@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nearest Bin</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Nearest E-Waste Bin</h2>
+
+<p>Nearest Bin: City Center Collection Point</p>
+<p>Distance: 1.2 km</p>
+<p>Status: Available</p>
+
+<button onclick="addPoints()">Deposit Complete</button>
+
+<script src="script.js"></script>
+</body>
+</html>

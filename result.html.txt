@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Detection Result</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Detection Result</h2>
+
+<div id="result"></div>
+
+<button onclick="goMap()">Find Bin</button>
+
+<script src="script.js"></script>
+</body>
+</html>

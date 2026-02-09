@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Select Waste</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Select Waste Type</h2>
+
+<button onclick="detect('phone')">Phone</button>
+<button onclick="detect('battery')">Battery</button>
+<button onclick="detect('laptop')">Laptop</button>
+<button onclick="detect('charger')">Charger</button>
+
+<script src="script.js"></script>
+</body>
+</html>
