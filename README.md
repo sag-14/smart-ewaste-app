@@ -51,7 +51,4 @@ Figma Prototype:
 https://www.figma.com/design/aG4i3cjnxQGjI3klxCF7pv/E-Waste-Management-App--Community-?node-id=0-1&p=f&m=draw
 
 Demo Video:
-
-
-Demo Video:
-[PASTE VIDEO LINK]
+https://drive.google.com/file/d/1Jva8DfMNMPH_F4oUsFnNdafDF57g9eS-/view?usp=drive_link
